@@ -29,3 +29,7 @@ Test install, open up the Command Prompt and type java -version
 # Add Windows registry keys:     
 Merge jdk_ri-7u75-b13-windows-i586-18_dec_2014.reg 
 This set will insert the necessary keys without having to manually add one at a time. 
+
+
+# NOTE: 
+    the *.ifp file is the 'install forge' script to produce the .exe
