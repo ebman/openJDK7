@@ -1,2 +1,2 @@
 # openJDK
-openJDK for Windows
+openJDK 7 32bit for Windows
